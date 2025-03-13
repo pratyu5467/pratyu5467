@@ -1,7 +1,7 @@
 # 👋 Hey there! I'm Pratyusha Adibhatla!
 
 🚀 **About Me**  
-🌟 Data Analyst | AI Researcher | Software Engineer blending analytical expertise, innovation, and technical skills to deliver impactful data-driven solutions.
+🌟 Data Analyst | AI Researcher | Data Scientist blending analytical expertise, innovation, and technical skills to deliver impactful data-driven solutions.
 
 ---
 
@@ -25,19 +25,18 @@
 ### 💼 **Data Analytics & Visualization**
 - **ETL & Data Wrangling**: Python (Pandas, NumPy), SQL  
 - **Data Visualization**: Power BI, Tableau, Matplotlib, Seaborn  
-- **Big Data**: Hive, Apache Spark  
 
 ### 🧠 **Artificial Intelligence & Machine Learning**
-- Large Language Models (LLMs): GPT, Zephyr-7b-alpha  
-- Retrieval Augmented Generation (RAG)  
+- Large Language Models (LLMs): GPT, Zephyr-7b-alpha , LLAma3-70B 
+- Retrieval Augmented Generation (RAG)  , LangChain
 
 ### 💻 **Web Scraping & Data Engineering**
 - Python Libraries: Beautiful Soup, Selenium, Requests  
 - Hugging Face Datasets and Transformers  
 
 ### 🔧 **Technical Expertise**
-- **Databases**: MySQL, PostgreSQL  
-- **Programming**: Python, C++, Embedded C  
+- **Databases**: MySQL, Oracle  
+- **Programming**: Python, R  
 - **Cloud**: AWS, PCF, Jenkins  
 
 ---
@@ -58,7 +57,7 @@ I believe in leveraging technology and analytics to solve real-world problems an
 ---
 
 📫 **Connect With Me**  
-- 🌐 [LinkedIn](https://www.linkedin.com/in/pratyushaadibhatla/)  
+- 🌐 [LinkedIn]([https://www.linkedin.com/in/pratyushaadibhatla/])  
 - 📧 Email: pratyushaadibhatla3@gmail.com  
 
 ---
