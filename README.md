@@ -57,7 +57,7 @@ I believe in leveraging technology and analytics to solve real-world problems an
 ---
 
 📫 **Connect With Me**  
-- 🌐 [LinkedIn](https://www.linkedin.com/in/pratyushaadibhatla/)   
+- 🌐 [LinkedIn](https://www.linkedin.com/in/pratyusha-adibhatla/)   
 - 📧 Email: pratyushaadibhatla3@gmail.com  
 
 ---
